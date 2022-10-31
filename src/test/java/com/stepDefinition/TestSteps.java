@@ -1,7 +1,7 @@
 package com.stepDefinition;
 
-import static org.junit.Assert.assertEquals;
 
+import static org.junit.Assert.assertEquals;
 import java.util.List;
 import java.util.Map;
 
@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.Select;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import junit.framework.Assert;
+//import junit.framework.Assert;
 
 import pages.LoginPage;
 public class TestSteps {
