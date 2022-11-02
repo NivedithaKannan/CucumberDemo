@@ -46,6 +46,7 @@ public class TestSteps {
 		//uname.sendKeys("vasuvespag");
 		//loginPg= new LoginPage(driver);
 		loginPg.enterUserName("vasuvespag");
+		System.out.println("Inside username method");
 	}
 
 	@When("User enters Password")
