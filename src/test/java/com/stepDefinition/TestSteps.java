@@ -53,7 +53,7 @@ public class TestSteps {
 	public void user_enters_password() {
 	    // Write code here that turns the phrase above into concrete actions
 	   // throw new io.cucumber.java.PendingException();
-//		System.out.println("Inside password method");
+	System.out.println("Inside password method");
 //		driver.findElement(By.name("password")).clear();
 //		driver.findElement(By.name("password")).sendKeys("vasu1234");
 	loginPg.enterPassword("vasu1234");
